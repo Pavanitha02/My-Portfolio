@@ -23,7 +23,7 @@ const Hero = () => {
             <a href="#projects" className="px-8 py-3 bg-accent-blue hover:bg-blue-600 text-white rounded-full font-semibold transition-all shadow-lg hover:shadow-blue-500/20 flex items-center gap-2">
               View Projects
             </a>
-            <a href="#" className="px-8 py-3 border border-white/10 hover:bg-white/5 rounded-full font-semibold transition-all flex items-center gap-2">
+            <a href="https://flowcv.com/resume/flq8352gg7ht" target="_blank" rel="noopener noreferrer" className="px-8 py-3 border border-white/10 hover:bg-white/5 rounded-full font-semibold transition-all flex items-center gap-2">
               <FileText size={20} />
               Download Resume
             </a>
